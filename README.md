@@ -16,10 +16,6 @@
   </a>
   <a href="https://twitter.com/imike_uwu" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/imike_505?igshid=NGExMmI2YTkyZg==" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
