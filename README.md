@@ -1,4 +1,4 @@
-![Miguel Contreras Banner](Assets/Banner2.jpg)
+![Miguel Contreras Banner](Assets/Banner2.png)
 
 <h1 align="center">Hi, my name is Miguel Contreras 👋</h1>
 <h3 align="center">I'm a Computer Engineering student at Universidad Nacional Autónoma de México</h3>
