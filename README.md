@@ -1,4 +1,4 @@
-![Miguel Contreras Banner](Assets/Banner2.png)
+![image](https://github.com/user-attachments/assets/305c6499-93a4-40aa-b334-f6793f7c0b9f)
 
 <h1 align="center">Hi, I'm Miguel Contreras 👋</h1> <h3 align="center">Full Stack Developer | Passionate about Web Technologies</h3>
 🌱 I'm a Full Stack Developer focused on creating modern, secure, and scalable web applications using technologies like React, Node.js, Docker, and Kubernetes.<p></p>
